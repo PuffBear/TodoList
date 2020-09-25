@@ -61,21 +61,3 @@ class TodoAdapter(
         return todos.size
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
